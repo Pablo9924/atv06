@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="shortcut icon" href="/imgs/favicon.png" type="image/x-icon">
+    <title>SwiftSport - Vôlei</title>
+</head>
+<body>
+    <header>
+        <img id="logo" src="/imgs/favicon.png" alt="SwiftSport logo">
+        <h1>SwiftSport</h1>
+    </header>
+    <div class="container-links">
+        <ul id="links">
+            <li><a href="/index.html"><img id="icon" src="/imgs/favicon.png" alt="icon"> Início <img id="icon" src="/imgs/favicon.png" alt="icon"></a></li>
+            <li><a href="/esporte/basquete/index.html">🏀 Basquete 🏀</a></li>
+            <li><a href="/esporte/lacrosse/index.html">🥍 Lacrosse 🥍</a></li>
+        </ul>
+    </div>
+    <section class="info-loja">
+        <h1>O vôlei</h1>
+        <hr>
+
+        <p>
+            O vôlei é um esporte coletivo praticado por duas equipes de seis jogadores em cada lado de uma quadra retangular, 
+            dividida por uma rede. O objetivo do jogo é marcar mais pontos que o adversário, 
+            lançando a bola por cima da rede e fazendo com que ela toque no chão do lado adversário.
+            O vôlei é um esporte dinâmico e emocionante, que exige habilidades físicas, técnicas e mentais. 
+            É um esporte que pode ser praticado por pessoas de todas as idades e níveis de habilidade.
+        </p>
+        <br>
+
+        <p>Para mais informações, visite:</p>
+        <ul>
+            <li><a href="https://www.todamateria.com.br/voleibol">Voleibol: regras, fundamentos e história do vôlei - <em>Toda Matéria</em></a></li>
+            <li><a href="https://pt.wikipedia.org/wiki/Voleibol">Voleibol - <em>Wikipédia</em></a></li>
+            <li><a href="https://ge.globo.com/volei/">site oficial da <em>ge.globo</em></a></li>
+        </ul>
+        <br>
+
+        <p>Aqui na SwiftSport, você encontra tudo o que precisa para praticar vôlei com <strong>qualidade e estilo.</strong>
+        <br>
+
+        <p>Veja algumas <strong>Curiosidades</strong> sobre o vôlei:</p>
+        <br>
+
+        <ul>
+            <li><p>O vôlei foi inventado nos Estados Unidos em 1895, por William G. Morgan.</p></li>
+            <li><p>O vôlei foi um esporte olímpico pela primeira vez em 1964.</p></li>
+            <li><p>O vôlei é o esporte nacional do Brasil.</p></li>
+            <li><p>Alguns de seu jogadores mais conhecidos são Yoandi Leal, Max Holt, Ivan Zaytsev, Ricardo Lucarelli, Alan Souza, Yuji Nishida, Osmany Juantorena, Earvin N’Gapeth, entre outros.</p></li>
+            <li><p>Alguns dos campeonatos mais famosos de vôlei são o Campeonato Mundial de Vôlei, Liga das Nações, Campeonato Russo de Voleibol, entre outros.</p></li>
+        </ul>
+        <br>
+
+        <img class="imagens-menu-alt" src="/imgs/volei-1.jpg" alt="Interiores da loja">
+        <img class="imagens-menu-alt" src="/imgs/volei-2.jpg" alt="Interiores da loja">
+        <img class="imagens-menu-alt" src="/imgs/volei-3.jpg" alt="Interiores da loja">
+
+        <h1>Nossos produtos para basquete</h1>
+        <hr>
+
+        <p>Veja aqui alguns produtos:</p>
+
+        <div class="container-imagens">
+            <img class="imagens-menu" src="/imgs/bola.jpg" alt="Bola de vôlei profissional SwiftSport">
+            <div class="container-imagens-texto">
+
+                <p>Bola de vôlei profissional SwiftSport</p>
+
+                <h1>R$ 69,99</h1>
+
+                <p style="font-size: 14pt;">
+                    Uma bola de vôlei de material durável e com boa elasticidade, 
+                    para execução de seus mehores saques e cortes .
+                </p>
+
+                <p>Disponível apenas no tamanho 67cm.</p>
+
+            </div>
+        </div>
+
+        <div class="container-imagens">
+            <img class="imagens-menu" src="/imgs/rede.jpg" alt="Rede de vôlei de praia profissional SwiftSport">
+            <div class="container-imagens-texto">
+                
+                <p>Rede de vôlei de praia profissional </p>
+
+                <h1>R$ 79,99</h1>
+
+                <p style="font-size: 10pt;">
+                    Uma rede de ótima qualidade e de fácil instalação nas areias da praia, seguindo os padrões da SwiftSport. 
+                    (Suportes inclusos com o produto)
+                </p>
+
+                <p>Disponível nas larguras de 8, 9 e 10 metros de comprimento (todas com 1 metro de altura)</p>
+                
+            </div>
+        </div>
+
+        <div class="container-imagens">
+            <img class="imagens-menu" src="/imgs/manguito.jpg" alt="Par manguitos térmicos profissional SwiftSport">
+            <div class="container-imagens-texto">
+                
+                <p>Par manguitos térmicos profissional SwiftSport</p>
+
+                <h1>R$ 109,99</h1>
+
+                <p style="font-size: 14pt;">
+                    Com esse par de manguitos , você com certeza melhorará seu desempenho no vôlei!
+                    feita com as melhores fibras do mercado, esse par de manguitos é o ideal para você.
+                </p>
+
+                <p>Disponível em P, M, G e GG, tanto masculino quanto feminino, adulto</p>
+                
+            </div>
+        </div>
+
+        <h1>Formas de pagamento</h1>
+        <hr>
+
+        <p>A nossa loja é bem aberta quanto às formas de pagamento, tendo como opções:</p>
+
+        <ul>
+            <li>Dinheiro;</li>
+            <li>Débito;</li>
+            <li>Crédito (parcelamos em até 6x);</li>
+            <li>Pix.</li>
+        </ul>
+        <br>
+
+        <h1>Fundadores</h1>
+        <hr>
+
+        <p>Nossa loja só foi possível graças a junção de três amigos:</p>
+        <br>
+
+        <ul>
+            <li>Pablo Nilson</li>
+            <li>Elvis Caires e</li>
+            <li>Guilherme Figueiredo,</li>
+        </ul>
+        <br>
+        
+        <p style="margin-bottom: 20px;">que juntos fundaram um negócio de sucesso que vende apenas produtos de impecável qualidade para seus queridos clientes.</p>
+
+    </section>
+</body>
+</html>
